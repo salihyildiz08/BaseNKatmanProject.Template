@@ -272,7 +272,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Detaylar için `LI
 
 **Beğendiyseniz ⭐ vermeyi unutmayın!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [SALİH YILDIZ](https://github.com/salihyildiz08)
 
 ![Footer](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
