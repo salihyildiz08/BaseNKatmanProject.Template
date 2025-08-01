@@ -1,0 +1,6 @@
+@BaseNKatmanProject.API_HostAddress = http://localhost:5187
+
+GET {{BaseNKatmanProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

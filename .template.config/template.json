@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Yildiz",
+  "classifications": [ "Clean Architecture", "Web API", "EF Core", "ASP.NET Core" ],
+  "identity": "BaseNKatmanProject.Template",
+  "name": "Base N Katman Project Template",
+  "shortName": "basenkatman",
+  "sourceName": "BaseNKatmanProject",
+  "preferNameDirectory": true,
+  "symbols": {},
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

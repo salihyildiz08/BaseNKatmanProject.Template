@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BaseNKatmanProject.API.props" />
+</Project>

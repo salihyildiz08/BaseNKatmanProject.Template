@@ -1,0 +1,17 @@
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Application.deps.json
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Application.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Application.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Core.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Infrastructure.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Core.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\bin\Debug\net8.0\BaseNKatmanProject.Infrastructure.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.csproj.AssemblyReference.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.AssemblyInfoInputs.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.AssemblyInfo.cs
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.csproj.CoreCompileInputs.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKat.CBF34D94.Up2Date
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\refint\BaseNKatmanProject.Application.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\BaseNKatmanProject.Application.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Application\obj\Debug\net8.0\ref\BaseNKatmanProject.Application.dll

@@ -1,0 +1,17 @@
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\bin\Debug\net8.0\BaseNKatmanProject.Infrastructure.deps.json
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\bin\Debug\net8.0\BaseNKatmanProject.Infrastructure.runtimeconfig.json
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\bin\Debug\net8.0\BaseNKatmanProject.Infrastructure.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\bin\Debug\net8.0\BaseNKatmanProject.Infrastructure.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\bin\Debug\net8.0\BaseNKatmanProject.Core.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\bin\Debug\net8.0\BaseNKatmanProject.Core.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.AssemblyInfo.cs
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKat.4573E648.Up2Date
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\refint\BaseNKatmanProject.Infrastructure.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\BaseNKatmanProject.Infrastructure.genruntimeconfig.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Infrastructure\obj\Debug\net8.0\ref\BaseNKatmanProject.Infrastructure.dll

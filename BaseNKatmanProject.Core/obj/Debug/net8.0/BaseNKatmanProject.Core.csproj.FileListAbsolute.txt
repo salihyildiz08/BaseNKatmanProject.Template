@@ -1,0 +1,12 @@
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\bin\Debug\net8.0\BaseNKatmanProject.Core.deps.json
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\bin\Debug\net8.0\BaseNKatmanProject.Core.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\bin\Debug\net8.0\BaseNKatmanProject.Core.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.AssemblyInfoInputs.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.AssemblyInfo.cs
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.csproj.CoreCompileInputs.cache
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\refint\BaseNKatmanProject.Core.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.pdb
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\ref\BaseNKatmanProject.Core.dll
+C:\Projeler\BaseNKatman\BaseNKatmanProject.Core\obj\Debug\net8.0\BaseNKatmanProject.Core.csproj.AssemblyReference.cache
