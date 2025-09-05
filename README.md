@@ -21,7 +21,7 @@
 
 ## 🎯 Nedir Bu Proje?
 
-**BaseNKatmanProject.Template**, modern yazılım geliştirme standartlarına uygun, **Clean Architecture** prensipleriyle tasarlanmış, ölçeklenebilir ve sürdürülebilir **4 katmanlı** bir .NET proje şablonudur. 
+**BaseNKatmanProject.Template**, modern yazılım geliştirme standartlarına uygun, **N Katman** prensipleriyle tasarlanmış, ölçeklenebilir ve sürdürülebilir **4 katmanlı** bir .NET proje şablonudur. 
 
 Hem bireysel geliştiriciler hem de enterprise projeler için **üretime hazır** bir temel sağlar.
 
