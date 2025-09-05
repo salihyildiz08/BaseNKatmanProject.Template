@@ -116,21 +116,30 @@ Hem bireysel geliştiriciler hem de enterprise projeler için **üretime hazır*
 - ✅ [SQL Server](https://www.microsoft.com/sql-server) (LocalDB desteklenir)
 - ✅ [Visual Studio 2022](https://visualstudio.microsoft.com/) veya [VS Code](https://code.visualstudio.com/)
 
-### 1️⃣ Şablonu Yükleme
+### 1️⃣ Template’i Local Olarak Yükleme
 
 ```bash
-# NuGet'ten şablonu yükleyin
-dotnet new install BaseNKatmanProject.Template
+# Repo’yu indir veya klonla
+git clone https://github.com/salihyildiz08/BaseNKatmanProject.Template C:\Projects\BaseNKatmanProject.Template
+
+# Template kök dizinine git
+cd C:\Projects\BaseNKatmanProject.Template
+
+# Template’i yükle
+dotnet new install .
+
 ```
 
 ### 2️⃣ Yeni Proje Oluşturma
 
 ```bash
-# Yeni proje oluşturun
-dotnet new basenkatman -n "MuhteşemProjem"
+cd C:\Projects
 
-# Proje dizinine geçin
-cd MuhteşemProjem
+# Yeni proje oluştur
+dotnet new basenkatman -n AIProject
+
+cd AIProject
+
 ```
 
 ### 3️⃣ Kurulum ve Çalıştırma
